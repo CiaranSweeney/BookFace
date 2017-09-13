@@ -1,0 +1,42 @@
+body{
+	background-color:#33FFF3;
+	text-align: center;
+}
+
+textarea {
+    resize: none;
+}
+
+li {
+	/*text-align: left;*/
+	background-color:#8ae84d;
+    display: inline;
+    margin: 30px;
+}
+
+#NavigationBar{
+	/*text-align: left;*/
+	background-color:#8ae84d;
+	font-size:20;
+}
+
+#Lists{
+	background-color:white;
+	font-size:40;
+	text-align: center;
+}
+
+#friends{
+	background-color:#8ae84d;
+	position: relative;
+    width: 100px;
+    height: 1000px;
+    left:1232px;
+    top:-165px;
+    font-size:16;
+}
+#wall{
+	position: relative;
+	top: -1100;
+	font-size:16;
+}

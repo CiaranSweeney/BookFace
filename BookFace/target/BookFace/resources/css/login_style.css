@@ -1,0 +1,10 @@
+body{
+	background-color:#33FFF3;
+	text-align: center;
+}
+input[type=text] {
+	text-align: center;
+}
+input[type=password] {
+	text-align: center;
+}
